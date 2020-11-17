@@ -1,3 +1,6 @@
+[![Downloads](https://pepy.tech/badge/pickleslicer)](https://pepy.tech/project/pickleslicer)
+[![Python package](https://github.com/rmshaffer/pickle-slicer/workflows/Python%20package/badge.svg)](https://github.com/rmshaffer/pickle-slicer/actions/)
+
 # pickleslicer: Automatic slicer and unslicer of pickle files
 
 The `pickleslicer` package provides a convenient way to create and load pickle files
